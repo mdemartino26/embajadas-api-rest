@@ -7,7 +7,6 @@ var embajadasSchema = new Schema({
     lng:{type: String},
     name:{type: String},
     type: {type: String},
-    description: {type: String}
 });
 
 
